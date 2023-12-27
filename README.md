@@ -1,13 +1,31 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+## Visão Geral
 
-<hr>
+### O projeto
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+- Projeto de válidação de formulário para o Monibank
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
+### Screenshot
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+![](./monibank.png)
+![](./monibank1.png)
+![](./monibank2.png)
+![](./monibank3.png)
+
+### Links
+
+- Live Site URL: [Monibank](https://monibank-lovat.vercel.app/)
+
+## Meu processo
+
+### Criado com
+
+- JavaScript
+- HTML e CSS fornecidos pelo curso
+
+### O que eu aprendi
+
+- Aprendi a validar formúlarios com JS
+
+## Autor
+
+- GitHub - [João Metzdorf](https://github.com/joaometzdorf)
